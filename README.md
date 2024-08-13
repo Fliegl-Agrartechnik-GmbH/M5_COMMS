@@ -5,6 +5,8 @@ M5_COMMS are CAN-Bus and Modbus Boards for M5 Stack
 
 <https://github.com/espressif/esp-idf/issues/13989>
 
+<https://community.m5stack.com/topic/306/plc-module/12?_=1718738548748>
+
 
 ![174776340480-Produce_DanZhi SMT_Snapshot Top 2790709A_Y380 SMT02407241857146 (1)](https://github.com/user-attachments/assets/eb498241-3f03-4cf4-b5af-d4abe0ab79fa)
 
