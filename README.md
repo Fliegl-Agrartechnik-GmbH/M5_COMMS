@@ -8,14 +8,23 @@ M5_COMMS are CAN-Bus and Modbus Boards for M5 Stack
 <https://community.m5stack.com/topic/306/plc-module/12?_=1718738548748>
 
 
+4 Models: 
+(right klick, open in new Tab for high-res view)
 
 
+
+1. 
 <img src="https://github.com/user-attachments/assets/df20ec8f-62f4-41ff-aea9-63415f9ed6cb" width="400" height="400">
 
+2. 
 <img src="https://github.com/user-attachments/assets/84ce737d-b0ee-4c55-b311-826991d22512" width="400" height="400">
 
+
+3. 
 <img src="https://github.com/user-attachments/assets/67820d9d-fa34-4c29-a037-ff9f005b1057" width="400" height="400">
 
+
+4. 
 <img src="https://github.com/user-attachments/assets/2f8137bf-8ed6-4aaf-af31-53aff309fcd3" width="400" height="400">
 
 
