@@ -10,7 +10,7 @@ M5_COMMS are CAN-Bus and Modbus Boards for M5 Stack
 
 
 
-![5325828300116974999](https://github.com/user-attachments/assets/df20ec8f-62f4-41ff-aea9-63415f9ed6cb | width=100)
+![5325828300116974999](https://github.com/user-attachments/assets/df20ec8f-62f4-41ff-aea9-63415f9ed6cb)
 
 ![5325828300116974996](https://github.com/user-attachments/assets/84ce737d-b0ee-4c55-b311-826991d22512)
 
