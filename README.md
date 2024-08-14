@@ -10,13 +10,13 @@ M5_COMMS are CAN-Bus and Modbus Boards for M5 Stack
 
 
 
-<img src="https://github.com/user-attachments/assets/df20ec8f-62f4-41ff-aea9-63415f9ed6cb" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/df20ec8f-62f4-41ff-aea9-63415f9ed6cb" width="400" height="400">
 
-<img src="https://github.com/user-attachments/assets/84ce737d-b0ee-4c55-b311-826991d22512" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/84ce737d-b0ee-4c55-b311-826991d22512" width="400" height="400">
 
-<img src="https://github.com/user-attachments/assets/67820d9d-fa34-4c29-a037-ff9f005b1057" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/67820d9d-fa34-4c29-a037-ff9f005b1057" width="400" height="400">
 
-<img src="https://github.com/user-attachments/assets/2f8137bf-8ed6-4aaf-af31-53aff309fcd3" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/2f8137bf-8ed6-4aaf-af31-53aff309fcd3" width="400" height="400">
 
 
 
