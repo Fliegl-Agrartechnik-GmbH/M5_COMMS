@@ -2,7 +2,7 @@
 
 reffered also as TWAI
 
-| ****         | **RX** | **TX** |
+| **CAN**      | **RX** | **TX** |
 |--------------|--------|--------|
 | Core (Basic) | G36    | G25    |
 | Core 2       | G36    | G25    |
