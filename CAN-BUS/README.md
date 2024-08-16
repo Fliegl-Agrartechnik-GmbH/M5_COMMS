@@ -2,6 +2,9 @@
 
 reffered also as TWAI
 
+
+## Pinout
+
 | **CAN**      | **RX** | **TX** |
 |--------------|--------|--------|
 | Core (Basic) | G36    | G25    |
