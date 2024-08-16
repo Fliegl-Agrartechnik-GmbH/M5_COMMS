@@ -1,26 +1,21 @@
-# CAN-BUS
-
-reffered also as TWAI
+# RS-485-MAX3485ECSA
 
 
 ## Pinout
 
-| **CAN**      | **RX** | **TX** |
-|--------------|--------|--------|
-| Core (Basic) | G36    | G25    |
-| Core 2       | G36    | G25    |
-| CoreS3       | G8     | G5     |
+| **RS-485**   | **RXD** | **TXD** | **RTS** |
+|--------------|---------|---------|---------|
+| Core (Basic) | G36     | G25     | G25     |
+| Core 2       | G36     | G25     | G25     |
+| CoreS3       | G8      | G5      | G25     |
 
 
 ## External
 
 | **Pin**  | **1**    | **2** | **3** | **4** |
 |----------|----------|-------|-------|-------|
-| Function | DC 9-24V | CAN_L | CAN_H | GND   |
+| Function | DC 9-24V | B     | A     | GND   |
+| PROFIBUS | DC 9-24V | A     | B     | GND   |
 
 
 ## Testing
-
-https://github.com/Fliegl-Agrartechnik-GmbH/twai_network
-
-![5330111099770624858](https://github.com/user-attachments/assets/58ad094e-c0b1-47e8-b7b0-b50a1150eb76)
