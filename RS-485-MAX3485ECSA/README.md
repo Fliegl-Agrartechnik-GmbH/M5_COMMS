@@ -5,9 +5,9 @@
 
 | **RS-485**   | **RXD** | **TXD** | **RTS** |
 |--------------|---------|---------|---------|
-| Core (Basic) | G36     | G25     | G25     |
-| Core 2       | G36     | G25     | G25     |
-| CoreS3       | G8      | G5      | G25     |
+| Core (Basic) | G16     | G17     | G2      |
+| Core 2       | G13     | G14     | G32     |
+| CoreS3       | G18     | G17     | G2      |
 
 
 ## External
