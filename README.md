@@ -25,6 +25,9 @@ M5_COMMS are CAN-Bus and Modbus Boards for M5 Stack
 
 
 4. CAN-Bus with a Infineon Transceiver
+
+see: <https://github.com/Fliegl-Agrartechnik-GmbH/M5_COMMS/tree/main/CAN-BUS>
+   
 <img src="https://github.com/user-attachments/assets/2f8137bf-8ed6-4aaf-af31-53aff309fcd3" width="400" height="400">
 
 
